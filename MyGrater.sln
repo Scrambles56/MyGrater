@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyGrater", "MyGrater\MyGrater.csproj", "{B8487211-0AD4-4F1C-AE11-AF294F9EF44C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyGrater.Example", "MyGrater.Example\MyGrater.Example.csproj", "{7A866218-5EFB-4520-9240-A56DC7B99FEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{B8487211-0AD4-4F1C-AE11-AF294F9EF44C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8487211-0AD4-4F1C-AE11-AF294F9EF44C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8487211-0AD4-4F1C-AE11-AF294F9EF44C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A866218-5EFB-4520-9240-A56DC7B99FEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A866218-5EFB-4520-9240-A56DC7B99FEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A866218-5EFB-4520-9240-A56DC7B99FEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A866218-5EFB-4520-9240-A56DC7B99FEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
