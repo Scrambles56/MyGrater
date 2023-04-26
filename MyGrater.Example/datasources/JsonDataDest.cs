@@ -3,7 +3,7 @@ using MyGrater.Example.rows;
 
 namespace MyGrater.Example.datasources;
 
-public class JsonDataDest : IDataDestination
+public class JsonDataDest
 {
     private readonly string _fileName;
 

@@ -4,7 +4,7 @@ using MyGrater.Example.rows;
 
 namespace MyGrater.Example.datasources;
 
-public class CsvDataSource : IDataSource
+public class CsvDataSource
 {
     private List<ExampleRow>? _records;
 
